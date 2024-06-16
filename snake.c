@@ -10,7 +10,7 @@ int main(){
         test++;
 
     }
-
+    delay(5);
 
 
     return 0;
@@ -128,4 +128,10 @@ void snake(){
     }
 
 
+}
+void delay(int numOfSec)
+{
+	int numOfMilliSec = 1000 * numOfSec;
+	time_t startTime = clock();
+	while(clock() < startTime + numOfMilliSec);
 }
