@@ -4,15 +4,19 @@ This project is a simple implementation of the classic Snake game that runs in t
 
 Features:
 <ul>
-<li>Real-time Snake Movement: Control the snake using 'W', 'A', 'S', 'D' keys for up, left, down, and right movements respectively.</li>
-<li>Random Food Placement: The food (*) appears at random positions within the playing field, avoiding the boundaries.</li>
-<li>Boundary Collision Detection: The game ends if the snake collides with the boundary.</li>
-<li>Score Tracking: Score increases by 10 points each time the snake eats the food.</li>
+✅Real-time Snake Movement: Control the snake using 'W', 'A', 'S', 'D' keys for up, left, down, and right movements respectively.<br>
+✅Random Food Placement: The food (*) appears at random positions within the playing field, avoiding the boundaries.<br>
+✅Boundary Collision Detection: The game ends if the snake collides with the boundary.<br>
+✅Score Tracking: Score increases by 10 points each time the snake eats the food.<br>
 </ul>
 
 <h2>This is the Full Demo of the project</h2><br><br>
 
-![Demo](https://github.com/kusha2000/Snake-Game-in-CLI/assets/127003267/7eb17a63-5d27-422c-b27f-a360753614dc)
+
+https://github.com/user-attachments/assets/2840c547-a3c9-44f5-bba3-45b6134a9985
+
+
+
 <br><br>
 
 
